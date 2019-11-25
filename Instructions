@@ -1,0 +1,26 @@
+# azureStorage
+Demos with Storage Account, Cosmos DB and SQL Database
+
+Change from Web.config the folloing values
+
+* Connection string for storage account
+    * STORAGE-ACCOUNT-CONNECTION-STRING
+* Table name from storage account
+    * TABLE-NAME
+* Cosmos DB URI
+    * COSMOS-URI
+* Cosmos DB Key
+    * COSMOS-KEY
+* Cosmos DB database id
+    * COSMOS-DATABASE
+* Cosmos DB collection id
+    * COSMOS-COLLECTION-NAME
+* Container name from storage account
+    * BLOB-CONTAINER-NAME
+* SQL database
+    * Server 
+        * data source=SERVERNAME.database.windows.net;
+    * User
+        * user id=USER;
+    * Password
+        * password=PASSWORD
